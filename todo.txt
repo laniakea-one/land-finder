@@ -1,0 +1,3 @@
+1. Get boundary fall working
+2. Price, sale speed research
+    2a. Domain API access - need ABN etc.

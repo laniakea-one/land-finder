@@ -1,0 +1,14 @@
+# dependencies
+.venv/
+
+# data — GDB files are large; processed outputs are reproducible
+data/raw/
+data/processed/
+
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
